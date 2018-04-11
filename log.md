@@ -24,3 +24,11 @@
     * Need to learn more about git merge conflicts
     * Learn more about collaboration using git.
     * Plan to make tutorial notes digital and post to static site
+
+### Day 4: April 11 2018
+
+**Today's progress** Learn html and css from Odin project and Mozilla developer network
+
+**Thoughts**
+    * Basic html and css
+    * planning and required softwares
